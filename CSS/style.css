@@ -431,7 +431,7 @@ footer p {
 }
 
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 500px) {
     .herobox {
         font-size:1rem;
     }
@@ -439,6 +439,11 @@ footer p {
     .herobox h1 {
         font-size: 2rem;
     }
+    
+    .table-legend {
+        left:10%;
+    }
+        
 
 }
 
