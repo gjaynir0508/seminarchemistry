@@ -235,6 +235,7 @@ h2 span {
 .flex-c {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .flex-c div {
@@ -395,6 +396,7 @@ footer p {
 .flex-a {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .flex-a div {
