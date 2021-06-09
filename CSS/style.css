@@ -454,6 +454,12 @@ footer p {
 
 }
 
+@media print {
+    nav {
+        position: static;
+    }
+}
+
 @font-face {
     font-family: webfont;
     src: url(../Resource_Files/webfont.ttf);
